@@ -1,0 +1,15 @@
+.zoom-field-container{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border: solid 1px #333;
+}
+
+.zoom-area{
+    position: sticky;
+    height: 100px;
+    width: 100px;
+    border: solid 1px #333;
+}
+
+
